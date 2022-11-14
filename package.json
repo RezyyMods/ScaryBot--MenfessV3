@@ -1,12 +1,12 @@
 {
-  "name": "Bot",
+  "name": "Scary-bot",
   "version": "0.0.0",
-  "description": "Create By Lexxy Official",
+  "description": "Create By Rezyy Mods",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Lexxy Official",
+  "author": "Rezyy Mods",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
